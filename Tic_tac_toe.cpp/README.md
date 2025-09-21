@@ -13,3 +13,6 @@ A console-based Tic Tac Toe game for two players.
 g++ main.cpp -o tic_tac_toe
 ./tic_tac_toe
 
+## preview
+![ Tic Tac Toe Screenshot](<img width="521" height="1104" alt="tictacto_test" src="https://github.com/user-attachments/assets/0be0c4bc-a97c-4d5b-bc24-744f0f7a91d4" />
+)
