@@ -8,11 +8,13 @@ A console-based Tic Tac Toe game for two players.
 - Win detection (rows, columns, diagonals)
 - Draw detection
 
+## preview
+![Tic Tac Toe Screenshot](<img width="521" height="1104" alt="tictacto_test" src="https://github.com/user-attachments/assets/f6b41b62-3bc4-491a-8e3e-d8e416d85dee" />
+)
+
 ## How to Run
 ```bash
 g++ main.cpp -o tic_tac_toe
 ./tic_tac_toe
 
-## preview
-![ Tic Tac Toe Screenshot](<img width="521" height="1104" alt="tictacto_test" src="https://github.com/user-attachments/assets/0be0c4bc-a97c-4d5b-bc24-744f0f7a91d4" />
-)
+
